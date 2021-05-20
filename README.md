@@ -8,4 +8,6 @@
 1️⃣JavaScript  2️⃣Java  3️⃣C  4️⃣C++ 5️⃣Bootstrap
 6️⃣HTML  7️⃣CSS  8️⃣Git  9️⃣GitHub 🔟Node.js 1️⃣1️⃣ Visual Studio Code  
 
- 
+![Tisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tishasoumya-02&show_icons=true&theme=dark)
+
+
