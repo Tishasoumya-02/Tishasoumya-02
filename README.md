@@ -1,7 +1,7 @@
 👋 Hi there
 
 - 🔭 I’m currently working on Web Development projects 
-- 🌱 I’m currently learning DS concepts and starting of with ML
+- 🌱 I’m currently learning DS concepts.
 - ✉️  You can email me at tishasoumya@gmail.com. I'll try to respond as soon as possible!
  
  🛠  Tech Stack
