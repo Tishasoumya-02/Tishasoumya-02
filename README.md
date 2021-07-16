@@ -5,14 +5,16 @@
 
 👋 Hi there
 
-- 🔭 I’m currently working on Web Development projects 
-- 🌱 I’m currently learning DS concepts.
-- ✉️  You can email me at tishasoumya@gmail.com. I'll try to respond as soon as possible!
+- 🔭 I’m a MERN Full Stack Developer. 
+- ✈️ Learning ML currently.  
+- 🌱 Working on my DS concepts.
+- ✉️  You can email me at tishasoumya@gmail.com.
+
  
  🛠  Tech Stack
 1️⃣JavaScript  2️⃣Java  3️⃣C  4️⃣C++ 5️⃣Bootstrap
 6️⃣HTML  7️⃣CSS  8️⃣Git  9️⃣GitHub 🔟Node.js 1️⃣1️⃣ Visual Studio Code  
 
-![Tisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tishasoumya-02&show_icons=true&theme=dark)
+![Tisha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02&currStreakNum=2FD3EB&fire=pink&sideLabels=FCD8D4&theme=solarized-dark)]
 
 
