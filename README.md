@@ -9,11 +9,9 @@
 - ✈️ Learning ML currently.  
 - 🌱 Working on my DS concepts.
 - ✉️  You can email me at tishasoumya@gmail.com.
-
+<br><br>
  
- 🛠  Tech Stack<br>
-1️⃣JavaScript  2️⃣Java  3️⃣C  4️⃣C++ 5️⃣Bootstrap
-6️⃣HTML  7️⃣CSS  8️⃣Git  9️⃣GitHub 🔟Node.js 1️⃣1️⃣ Visual Studio Code  
+<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/mern.png" alt="MERN STACK" /> 
 
 ![Tisha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02&currStreakNum=2FD3EB&fire=pink&sideLabels=FCD8D4&theme=solarized-dark)]
 
