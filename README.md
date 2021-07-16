@@ -11,7 +11,7 @@
 - ✉️  You can email me at tishasoumya@gmail.com.
 
  
- 🛠  Tech Stack
+ 🛠  Tech Stack<br>
 1️⃣JavaScript  2️⃣Java  3️⃣C  4️⃣C++ 5️⃣Bootstrap
 6️⃣HTML  7️⃣CSS  8️⃣Git  9️⃣GitHub 🔟Node.js 1️⃣1️⃣ Visual Studio Code  
 
