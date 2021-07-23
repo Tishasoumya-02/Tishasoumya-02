@@ -9,7 +9,7 @@
 - ✈️ Learning ML currently.  
 - 🌱 Working on my DS concepts.
 
-<br><br>
+<br>
 
 ## My Stats :thought_balloon:
 <p>
