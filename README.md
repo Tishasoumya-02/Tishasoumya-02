@@ -8,8 +8,7 @@
 - 🔭 I’m a MERN Full Stack Developer and bent a little bit towards Android App Development 😁
 - ✈️ Learning ML currently.  
 - 🌱 Working on my DS concepts.
-
-<br>
+<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/picture.png" align="right" height="300">
 
 ## My Stats :thought_balloon:
 <p>
@@ -17,6 +16,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tishasoumya-02&theme=merko&layout=compact&exclude_lang=java+r" />
 </a>
   
+ 
   
   ![Tisha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02&currStreakNum=2FD3EB&fire=pink&sideLabels=FCD8D4&theme=solarized-dark)
   
