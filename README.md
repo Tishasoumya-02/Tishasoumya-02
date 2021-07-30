@@ -8,7 +8,7 @@
 - 🔭 I’m a MERN Full Stack Developer and bent a little bit towards Android App Development 😁
 - ✈️ Learning ML currently.  
 - 🌱 Working on my DS concepts.
-<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/picture.png" align="right" height="300">
+<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/pic.jpg" align="right" height="300">
 
 ## My Stats :thought_balloon:
 <p>
