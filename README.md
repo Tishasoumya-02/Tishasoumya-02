@@ -3,7 +3,7 @@
 </h1>
 
 
-## 👋 Hi there
+## 👋 Hello World
 
 - 🔭 I’m a MERN Full Stack Developer and bent a little bit towards Android App Development 😁
 - ✈️ Learning ML currently.  
@@ -11,18 +11,20 @@
 <img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/pic.jpg" align="right" height="300"><br>
 
 ## My Stats :thought_balloon:
-<p>
+![profile visit](https://komarev.com/ghpvc/?username=Tishasoumya-02) 
+<p  align="left">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tishasoumya-02&theme=merko&layout=compact&exclude_lang=java+r" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tishasoumya-02&show_icons=true&theme=buefy" alt="my github stats" width="420"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tishasoumya-02&layout=compact&theme=buefy" alt="languages" height="165">
 </a>
-  
- 
-  
-  ![Tisha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02&currStreakNum=2FD3EB&fire=pink&sideLabels=FCD8D4&theme=solarized-dark)
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02" width="420" height="165">   
 </p>
 
-## My Skill Sets :brain: :girl:
+<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="180" align="center" >
+  
+
+
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg" height="auto" width="60px">
 <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="auto" width="40px">
