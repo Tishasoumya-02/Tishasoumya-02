@@ -40,7 +40,22 @@
 </p>
 <br><br>
 
-
+### 🌎Problem Solving website progress
+<!-- start problem solving -->
+<table border = "1" bordercolor = "blue">
+   <tr>
+    <td>CodeChef</td>
+    <td>https://www.codechef.com/users/tishasoumya02</td>
+    <td>C/Cpp/Java</td>
+  </tr>  
+   
+   <tr>
+    <td>Leetcode</td>
+    <td>https://leetcode.com/TishaSoumya-02/</td>
+    <td>C/Cpp/Java</td>
+  </tr>  
+</table>
+<br />
 
 ## Contact Me  :maple_leaf:
 
