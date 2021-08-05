@@ -8,19 +8,13 @@
 - 🔭 I’m a MERN Full Stack Developer and bent a little bit towards Android App Development 😁
 - ✈️ Learning ML currently.  
 - 🌱 Working on my DS concepts.
-<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/pic.jpg" align="right" height="300"><br>
+<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/pic.jpg" align="right" height="100"><br><br>
 
 ## My Stats :thought_balloon:
 ![profile visit](https://komarev.com/ghpvc/?username=Tishasoumya-02) 
-<p  align="left">
-<a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tishasoumya-02&show_icons=true&theme=buefy" alt="my github stats" width="420"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tishasoumya-02&layout=compact&theme=buefy" alt="languages" height="165">
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tishasoumya-02" width="420" height="165">   
-</p>
 
-<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="180" align="center" >
+
+<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="220" align="center" >
   
 
 
