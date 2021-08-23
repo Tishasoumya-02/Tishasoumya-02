@@ -14,7 +14,7 @@
 ![profile visit](https://komarev.com/ghpvc/?username=Tishasoumya-02) 
 
 
-<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="220" align="center" >
+<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0000ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="220" align="center" >
   
 
 
