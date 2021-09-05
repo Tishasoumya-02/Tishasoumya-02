@@ -13,7 +13,7 @@
 ## My Stats :thought_balloon:
 ![profile visit](https://komarev.com/ghpvc/?username=Tishasoumya-02) 
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tishasoumya02&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Tisha Soumya's Github Stats">
 <img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0000ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="220" align="center" >
   
 
