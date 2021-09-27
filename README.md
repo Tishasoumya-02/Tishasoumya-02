@@ -3,18 +3,33 @@
 </h1>
 
 
-## 👋 Hello World
+# 👋 Hi,I am Tisha !
 
-- 🔭 I’m a MERN Full Stack Developer and bent a little bit towards Android App Development 😁
-- ✈️ Learning ML currently.  
+- 🔭 I’m a MERN Full Stack Developer. 
 - 🌱 Working on my DS concepts.
-<img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/pic.jpg" align="right" height="100"><br><br>
+- :panda_face: I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-## My GitHub Stats :thought_balloon:
-![profile visit](https://komarev.com/ghpvc/?username=Tishasoumya-02) 
+<br>
+Taking one step at a time to be more mindful of my journey. You can find me here on   <a href="https://www.linkedin.com/in/tisha-soumya-380290204"><img src="https://img.shields.io/badge/-Tisha%20Soumya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>  to know more about me and my works.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tishasoumya-02&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7DB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,008000,130F40" alt="Tisha Soumya's Github Stats">
-<img src ="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=ffffff&color=0000ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="920" height="220" align="center" >
+<p align="center">
+  <img style="float: center;" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="85" height="82"></br>
+  <span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
+</p>
+
+<br>
+
+##  💻 GitHub Profile Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TishaSoumya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Tishasoumya-02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="TishaSoumya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tishasoumya-02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/><br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br /> <br/>
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Tisha Soumya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tishasoumya-02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 
 
