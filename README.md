@@ -20,7 +20,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </div>
 
 </p>
-<br/>
 
 ## CONTACT ME 📫
 
@@ -53,9 +52,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <hr>
-<br/>
-<br/>
-
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">Languages and Tools</h3> 
 <p align="left">
   
