@@ -15,9 +15,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
   
 <span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
 <div align="center">
- 
- ![](https://gitwar.herokuapp.com/badge?username=Tishasoumya-02&color=dc143c&label=PROFILE+VIEWS)
-  
+ <img src="https://komarev.com/ghpvc/?username=Tishasoumya-02" alt="visit" />
 </div>
 </p>
 
