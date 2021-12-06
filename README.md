@@ -17,8 +17,8 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <div align="center">
  
  ![](https://gitwar.herokuapp.com/badge?username=Tishasoumya-02&color=dc143c&label=PROFILE+VIEWS)
+  
 </div>
-
 </p>
 
 ## CONTACT ME 📫
