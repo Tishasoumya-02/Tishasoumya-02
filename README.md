@@ -1,7 +1,7 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tishasoumya-02/Tishasoumya-02/main/name.svg" alt="Tisha Soumya" />
 </h1>
-
+ -->
 # 👋 Hi,I am Tisha !
 
 - 🔭 I’m a MERN Full Stack Developer. 
