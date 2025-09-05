@@ -4,7 +4,7 @@
  -->
 # 👋 Hi,I am Tisha !
 
-- 🔭 I’m a MERN Full Stack Developer. 
+- 🔭 I’m a Full Stack Developer. 
 - 🌱 Working on my DS concepts.
 - :panda_face: I am always open to collaborating on projects and innovative/disruptive ideas. 
 
